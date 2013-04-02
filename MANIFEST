@@ -15,3 +15,4 @@ t/MetaTrans-SlovnikCz/00-use.t
 t/MetaTrans-SlovnikCz/01-version.t
 t/MetaTrans-SlovnikCz/02-pod_coverage.t
 t/MetaTrans-SlovnikCz/03-pod.t
+t/MetaTrans-SlovnikCz/04-new.t
