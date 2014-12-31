@@ -11,6 +11,7 @@ author 'Jan Pomikalek <xpomikal@fi.muni.cz>';
 author 'Michal Spacek <skim@cpan.org>';
 license 'perl-5';
 name 'MetaTrans-SlovnikCz';
+readme_from 'SlovnikCz.pm';
 requires 'Encode' => 0;
 requires 'HTTP::Request' => 0;
 requires 'MetaTrans' => '1.06';
