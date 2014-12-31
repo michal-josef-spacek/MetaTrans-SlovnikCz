@@ -15,7 +15,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.36
 distribution_type: module
 dynamic_config: 1
-generated_by: 'Module::Install version 1.08'
+generated_by: 'Module::Install version 1.14'
 license: perl-5
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -28,10 +28,10 @@ no_index:
 requires:
   Encode: 0
   HTTP::Request: 0
-  MetaTrans: 1.06
+  MetaTrans: '1.06'
   URI::Escape: 0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=MetaTrans-SlovnikCz
   homepage: https://github.com/tupinek/MetaTrans-SlovnikCz
   repository: git://github.com/tupinek/MetaTrans-SlovnikCz
-version: 1.06
+version: '1.06'
