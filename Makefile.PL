@@ -16,6 +16,7 @@ requires 'Encode' => 0;
 requires 'HTTP::Request' => 0;
 requires 'MetaTrans' => '1.06';
 requires 'URI::Escape' => 0;
+requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=MetaTrans-SlovnikCz';
 resources 'homepage' => 'https://github.com/tupinek/MetaTrans-SlovnikCz';
