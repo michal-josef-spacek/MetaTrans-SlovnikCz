@@ -8,7 +8,7 @@ use inc::Module::Install;
 # Definition.
 abstract 'MetaTrans plugin for slovnik.cz.';
 author 'Jan Pomikalek <xpomikal@fi.muni.cz>';
-author 'Michal Špaček <skim@cpan.org>';
+author 'Michal Spacek <skim@cpan.org>';
 license 'perl-5';
 name 'MetaTrans-SlovnikCz';
 requires 'Encode' => 0;
