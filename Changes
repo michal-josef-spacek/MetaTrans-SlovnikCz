@@ -2,4 +2,4 @@
  - Add README file.
  - Add minimal version of Perl.
  - First version (moved from MetaTrans perl module).
- - Update Module::Install to 1.14 version.
+ - Update Module::Install to 1.18 version.
